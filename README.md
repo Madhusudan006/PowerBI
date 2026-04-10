@@ -1,4 +1,5 @@
 ATM Transaction & Financial Performance Dashboard
+
 📊 Project Overview
 This Power BI dashboard provides a data-driven analysis of ATM operations, focusing on the intersection of maintenance costs, regional revenue, and transactional trends. It enables stakeholders to monitor operational efficiency and identify high-performing regions across North-East India and Northern territories.
 
